@@ -1,9 +1,13 @@
 <div align='center'>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there,+I'm+Hyeonjin)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=8D7BE0&height=300&section=header&text=Hi%20there,%20I'm%20Hyeonjin&fontSize=70&fontColor=FFFFFF)
   
 </div>
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehyeonjin99%2Fhit-counter&count_bg=%23FFE2FF&title_bg=%23FF9BC5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
 
 <div align=center>
 
@@ -22,8 +26,4 @@
 <p align='center'>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></p>
 
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehyeonjin99%2Fhit-counter&count_bg=%23FFE2FF&title_bg=%23FF9BC5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
